@@ -10,7 +10,7 @@ class MultilingualChatbot:
         self.master.geometry("800x600")
 
         # Configure API
-        genai.configure(api_key="AIzaSyC_W4O9H5tANYw6m8joYjQpNJtbkV26dNM")
+        genai.configure(api_key="API_KEY")
         self.model = genai.GenerativeModel("gemini-1.5-flash")
         self.translator = Translator()
         self.selected_language = "en"  #By Default in English
