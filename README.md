@@ -21,8 +21,8 @@ An AI Chatbot is a desktop application that enables users to interact with an AI
 ### Steps
 1. Clone the repository:
 ```bash
- git clone https://github.com/yourusername/multilingual-chatbot.git
- cd multilingual-chatbot
+ git clone https://github.com/yourusername/chatbot.git
+ cd chatbot
 ```
 2. Install the required dependencies:
 ```bash
