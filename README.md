@@ -1,5 +1,5 @@
 
-# AI Chatbot 
+# AI Chatbot 🤖
 
 An AI Chatbot is a desktop application that enables users to interact with an AI-powered chatbot in multiple languages and get their query solved. It features a user-friendly interface, supports language translation, and has options to save and clear chat logs.
 
