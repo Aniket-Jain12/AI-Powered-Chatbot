@@ -48,7 +48,7 @@ python chatbot.py
 ## Screenshots
 
 ![Project Screenshot](images/screenshot.png)
-## Tech Stack
+## Tech Stack⚙️
 
 1. Python: Core programming language for logic and GUI.
 2. Tkinter: For building the graphical user interface.
