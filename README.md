@@ -3,17 +3,17 @@
 
 An AI Chatbot is a desktop application that enables users to interact with an AI-powered chatbot in multiple languages and get their query solved. It features a user-friendly interface, supports language translation, and has options to save and clear chat logs.
 
-## Features
+## Features🚀
 
-- Multiple Language Support: It can communicate in five different  languages, namely English, Spanish, French, German, and Hindi.
-- Save chat logs: Export your chat conversations to a `.txt` file for future reference.
-- Delete chat logs: Reset the chat window with a single click.
-- Responsive AI: Intelligent response powered by Google Generative AI.
+- 🌏Multiple Language Support: It can communicate in five different  languages, namely English, Spanish, French, German, and Hindi.
+- 💾Save chat logs: Export your chat conversations to a `.txt` file for future reference.
+- 🗑️Delete chat logs: Reset the chat window with a single click.
+- 🤖Responsive AI: Intelligent response powered by Google Generative AI.
   
 
 
 
-## Installation
+## Installation🛠️
 ### Prerequisites
 - Python 3.x.
 - Google Generative AI API key.
@@ -37,7 +37,7 @@ python chatbot.py
 ```
   
 
-## Usage
+## Usage💡
 1. Launch the Chatbot: Run the application to open the chatbot window.
 2. Select a Language: Use the dropdown menu to choose your preferred language.
 3. Chat with AI: Type your message in the input field and press Enter or click Send.
@@ -56,7 +56,7 @@ python chatbot.py
 4. GoogleTrans: Enables multilingual translation.
 
 
-## Authors
+## Authors🧑‍💻
 
 - [Aniket Jain](https://github.com/Aniket-Jain12)
 
